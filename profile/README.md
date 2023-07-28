@@ -1,4 +1,4 @@
-# [![OWASP Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/images/owasp_logo.png) OWASP Amass](https://owasp.org/www-project-amass/)
+# [![OWASP Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/owasp_logo.png) OWASP Amass](https://owasp.org/www-project-amass/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/owasp-amass/amass/master/images/amass_video.gif">
@@ -33,7 +33,7 @@ If you have any questions about the OWASP Amass Project, please email the projec
 
 ## Testimonials
 
-### [![Accenture Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/images/accenture_logo.png) Accenture](https://www.accenture.com/)
+### [![Accenture Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/accenture_logo.png) Accenture](https://www.accenture.com/)
 
 *"Accenture’s adversary simulation team has used Amass as our primary tool suite on a variety of external enumeration projects and attack surface assessments for clients. It’s been an absolutely invaluable basis for infrastructure enumeration, and we’re really grateful for all the hard work that’s gone into making and maintaining it – it’s made our job much easier!"*
 
