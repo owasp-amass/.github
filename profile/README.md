@@ -1,4 +1,4 @@
-# [![OWASP Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/owasp_logo.png) OWASP Amass](https://owasp.org/www-project-amass/)
+# [![OWASP Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/owasp_logo.png) OWASP Amass Project](https://owasp.org/www-project-amass/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/owasp-amass/amass/master/images/amass_video.gif">
