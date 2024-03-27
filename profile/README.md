@@ -29,7 +29,7 @@ If you have any questions about the OWASP Amass Project, please email the projec
 
 ## Corporate Supporters
 
-[![ZeroFox Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/zerofox_logo.png)](https://www.zerofox.com/) [![IPinfo Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/ipinfo_logo.png)](https://ipinfo.io/) [![WhoisXML API Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/whoisxmlapi_logo.png)](https://www.whoisxmlapi.com/)
+[![ZeroFox Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/zerofox_logo.png)](https://www.zerofox.com/) [![WhoisXML API Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/whoisxmlapi_logo.png)](https://www.whoisxmlapi.com/)
 
 ## Testimonials
 
