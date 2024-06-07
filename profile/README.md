@@ -13,15 +13,15 @@
 
 ## Our Goal
 
-In-depth attack surface management for everyone!
+In-depth OSINT collection and external attack surface mapping for everyone!
 
-The OWASP Amass Project has developed a framework to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source intelligence gathering and reconnaissance techniques.
+The OWASP Amass Project has developed a system to help information security professionals perform mapping of attack surfaces and external asset discovery using open source intelligence gathering and reconnaissance techniques.
 
-The framework includes key efforts and tools to help understand attack surfaces:
+The system includes key efforts and tools to help understand attack surfaces:
 
 * [Collection Engine](https://github.com/owasp-amass/engine) - for in-depth attack surface mapping and asset discovery
-* [The Amass Tool](https://github.com/owasp-amass/amass) - for executing a collection engine from the command-line
-* [Asset Database](https://github.com/owasp-amass/asset-db) - for easy storage, navigation, and management of data in an OAM database
+* [The Amass Tool](https://github.com/owasp-amass/amass) - for executing collection engine sessions from the command-line
+* [Asset Database](https://github.com/owasp-amass/asset-db) - for easy storage, navigation, and management of OAM data
 * [Open Asset Model](https://github.com/owasp-amass/open-asset-model) - for a uniform way to communicate assets exposed on the Internet
 * [OAM Tools](https://github.com/owasp-amass/oam-tools) - for extracting, manipulating, and analyzing data in an OAM database
 
@@ -33,13 +33,19 @@ If you have any questions about the OWASP Amass Project, please email the projec
 
 ## Testimonials
 
-### [![Accenture Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/accenture_logo.png) Accenture](https://www.accenture.com/)
+### [![FortifyData Logo](./fortifydata_logo.png) FortifyData](https://www.fortifydata.com/)
+
+*"For FortifyData, Amass is an invaluable tool in our arsenal for quickly and accurately determining asset footprints for cyber risk assessment. It reliably provides superior results without false positives. Further, the OAM database model provides inherent benefits beyond asset footprinting, such as identifying third parties associated with the target and nth-party detection. Working closely with the Amass team, we've watched Amass steadily enhance its capabilities. Our clients are deeply impressed with the results our platform generates using Amass data.  We look forward to continuing to work with Amass and supporting its development!"*
+
+\- J. Eric Smith, VP of Technology Services Delivery
+
+### [![Accenture Logo](./accenture_logo.png) Accenture](https://www.accenture.com/)
 
 *"Accenture’s adversary simulation team has used Amass as our primary tool suite on a variety of external enumeration projects and attack surface assessments for clients. It’s been an absolutely invaluable basis for infrastructure enumeration, and we’re really grateful for all the hard work that’s gone into making and maintaining it – it’s made our job much easier!"*
 
 \- Max Deighton, Accenture Cyber Defense Manager
 
-### [![Visma Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/visma_logo.png) Visma](https://www.visma.com/)
+### [![Visma Logo](./visma_logo.png) Visma](https://www.visma.com/)
 
 *"For an internal red team, the organisational structure of Visma puts us against a unique challenge. Having sufficient, continuous visibility over our external attack surface is an integral part of being able to efficiently carry out our task. When dealing with hundreds of companies with different products and supporting infrastructure we need to always be on top of our game.*
 
