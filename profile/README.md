@@ -25,7 +25,7 @@ The system includes key efforts and tools to help understand attack surfaces:
 * [Asset Database](https://github.com/owasp-amass/asset-db) - for easy storage, navigation, and management of the OAM data
 * [Open Asset Model](https://github.com/owasp-amass/open-asset-model) - the uniform way to represent assets exposed on the Internet
 
-> You can find detailed installation instructions and documentation in the [Amass Docs](https://github.com/owasp-amass/docs) repo.
+> You can find detailed installation instructions and documentation in the [Amass Docs](https://owasp-amass.github.io/docs) repo.
 
 If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact us on the project's [Discord server](https://discord.gg/ANTyEDUXt5) (**Discord is highly preferred**).
 
