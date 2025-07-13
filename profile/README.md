@@ -4,10 +4,10 @@
   <img src="https://raw.githubusercontent.com/owasp-amass/docs/master/images/amass_video.gif">
 </p>
 
-[![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
-[![GitHub Release](https://img.shields.io/github/release/owasp-amass/amass)](https://github.com/owasp-amass/amass/releases)
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
+[![GitHub Release](https://img.shields.io/github/release/owasp-amass/amass)](https://github.com/owasp-amass/amass/releases/latest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Docker Images](https://img.shields.io/docker/pulls/owaspamass/amass.svg)](https://hub.docker.com/r/owaspamass/amass)
+[![Docker Image](https://img.shields.io/docker/pulls/owaspamass/amass.svg)](https://hub.docker.com/r/owaspamass/amass)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owaspamass.svg?logo=twitter)](https://twitter.com/owaspamass)
 [![Chat on Discord](https://img.shields.io/discord/433729817918308352.svg?logo=discord)](https://discord.gg/ANTyEDUXt5)
 
@@ -17,17 +17,18 @@ In-depth OSINT collection and external attack surface mapping for everyone!
 
 The OWASP Amass Project has developed a system to help information security professionals perform mapping of attack surfaces and external asset discovery using open source intelligence gathering and reconnaissance techniques.
 
-The system includes key efforts and tools to help understand attack surfaces:
+The system includes key components and tools to help understand attack surfaces:
 
+* [Amass Framework](https://github.com/owasp-amass/amass) - the external attack surface collection engine and supported tooling
+* [Amass Docs](https://github.com/owasp-amass/docs) - the official documentation for all components within the Amass project
 * [Docker Compose](https://github.com/owasp-amass/amass-docker-compose) - for in-depth attack surface mapping and asset discovery
-* [Docker Image](https://hub.docker.com/r/owaspamass/amass) - all the capabilities built from the [amass repo](https://github.com/owasp-amass/amass) in one Docker image
-* [The Amass Platform](https://github.com/owasp-amass/amass) - for all the development related to external attack surface collection
+* [Docker Image](https://hub.docker.com/r/owaspamass/amass) - the swiss army knife tool built from the [amass repo](https://github.com/owasp-amass/amass) in a Docker image
 * [Asset Database](https://github.com/owasp-amass/asset-db) - for easy storage, navigation, and management of the OAM data
 * [Open Asset Model](https://github.com/owasp-amass/open-asset-model) - the uniform way to represent assets exposed on the Internet
 
-> You can find detailed installation instructions and documentation in the [Amass Docs](https://owasp-amass.github.io/docs) repo.
+> You can find detailed installation instructions and documentation [here](https://owasp-amass.github.io/docs/).
 
-If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact us on the project's [Discord server](https://discord.gg/ANTyEDUXt5) (**Discord is highly preferred**).
+If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact with us on the project's [Discord server](https://discord.gg/ANTyEDUXt5) (**Discord is highly preferred**).
 
 ## Corporate Supporters
 
