@@ -1,7 +1,7 @@
 # [![OWASP Logo](https://raw.githubusercontent.com/owasp-amass/docs/master/images/owasp_logo.png) OWASP Amass Project](https://owasp.org/www-project-amass/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owasp-amass/docs/master/images/amass_video.gif">
+  <img src="https://raw.githubusercontent.com/owasp-amass/docs/master/images/amass_v5_video.gif">
 </p>
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
@@ -28,7 +28,7 @@ The system includes key components and tools to help understand attack surfaces:
 
 > You can find detailed installation instructions and documentation [here](https://owasp-amass.github.io/docs/).
 
-If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact with us on the project's [Discord server](https://discord.gg/ANTyEDUXt5) (**Discord is highly preferred**).
+If you have any questions about the OWASP Amass Project, please contact the [project leader](https://github.com/caffix), or contact us on the project's [Discord server](https://discord.gg/ANTyEDUXt5) (**Discord is highly preferred**).
 
 ## Corporate Supporters
 
@@ -58,11 +58,11 @@ If you have any questions about the OWASP Amass Project, please email the projec
 
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 ### How can I participate in the project?
 
-All you have to do is make the Project Leader aware of your available time to [contribute to the project](https://github.com/owasp-amass/amass/blob/master/CONTRIBUTING.md). It is also important to let the leader know how you would like to contribute and pitch in to help the project meet its goals and milestones. There are many different ways you can contribute to an OWASP Project, but communication with the leader is key.
+All you have to do is make the Project Leader aware of your available time to [contribute to the project](https://github.com/owasp-amass/amass/blob/main/CONTRIBUTING.md). It is also important to let the leader know how you would like to contribute and pitch in to help the project meet its goals and milestones. There are many different ways you can contribute to an OWASP Project, but communication with the leader is key.
 
 ### If I am not a programmer can I participate in the project?
 
